@@ -49,14 +49,14 @@ toc::[]
 
 == Equipe
 
-Projet est réalisé par::
+Le projet est réalisé par::
 
 - https://github.com/EnzoMancini[Enzo Mancini]
 - https://github.com/EstebanBiret[Esteban Biret-Toscano]
 - https://github.com/haisondang[Hai Son Dang]
 - https://github.com/Marwwannn[Marwan Youmni]
 
-Tuteur/tutrice enseignant(e) de l'équipe:: mailto:jean-michel.bruel@univ-tlse2.fr[JMB]
+Tuteur/tutrice enseignant(e) de l'équipe:: mailto:laurence.redon@univ-tlse2.fr[LR]
 
 == Contexte général
 
