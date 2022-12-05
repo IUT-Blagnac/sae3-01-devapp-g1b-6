@@ -1,9 +1,14 @@
 <html>
     <head>
         <meta charset="utf-8"/>
-        <title>SubOne</title>
+        <title>SubOne Accueil</title>
+        <link rel="stylesheet" href="include/CSS-index.css">
     </head>
     <body>
-        SubOne vivez l'océan
+        <div id="barreHaut">
+            <div id= "logo">
+                
+            </div>
+        </div>
     </body>
 </html>
