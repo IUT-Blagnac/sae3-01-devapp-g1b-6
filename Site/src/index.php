@@ -6,10 +6,6 @@
         <link rel="stylesheet" href="include/CSS-index.css">
     </head>
     <body>
-        <div id="barreHaut">
-            <div id= "logo">
-                
-            </div>
-        </div>
+        <?php include("./include/header.php");?>
     </body>
 </html>
