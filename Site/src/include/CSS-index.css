@@ -1,3 +1,7 @@
+body{
+    background-image: url("images/fond_sous-marin.png");
+}
+
 #barreHaute{
     padding-top: 30px;
 }
