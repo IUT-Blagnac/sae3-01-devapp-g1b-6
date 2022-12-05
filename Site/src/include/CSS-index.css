@@ -1,11 +1,5 @@
 body{
-    background-image:url(images/fond_sous-marin.png);
+    background-image:url(../images/fond_sous-marin.png);
     background-size: cover;
-}
-
-#barreHaute{
-    padding-top: 30px;
-}
-#logo{
-    
+    background-position: top;
 }

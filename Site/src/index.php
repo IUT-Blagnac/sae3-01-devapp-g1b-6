@@ -8,7 +8,7 @@
     <body>
         <div id="barreHaut">
             <div id= "logo">
-                <img src="images/Logo_SubOne_png.png">
+                
             </div>
         </div>
     </body>
