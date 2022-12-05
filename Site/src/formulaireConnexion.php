@@ -7,7 +7,9 @@
     <link rel="stylesheet" href="include/formulaire.css">
     <title>Formulaire de connexion</title>
 </head>
+
 <body>
+
     <div class="box">
         <div class="form">  
             <h2>Veuillez vous <p>connecter</p></h2>
