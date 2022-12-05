@@ -7,6 +7,7 @@
     font-family: 'Poppins', sans-serif;
     text-decoration: none;
     color : grey;
+    overflow: hidden;
 }
 
 p{
@@ -15,10 +16,13 @@ p{
 
 body{
     display: flex;
+   /* margin-left: 40%;
+    margin-top:5%;*/
     justify-content: center;
     align-items: center;
     min-height: 100vh;
     background: #23242a;
+    background-image: url("../images/sea.jpg");
 }
 
 .box{
@@ -167,4 +171,5 @@ input[type="submit"]:active{
     color : #8f8f8f;
     position: relative;
 }
+
 

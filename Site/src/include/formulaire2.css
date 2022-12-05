@@ -7,6 +7,8 @@
     font-family: 'Poppins', sans-serif;
     text-decoration: none;
     color : grey;
+    overflow: hidden;
+
 }
 
 p{
@@ -19,6 +21,7 @@ body{
     align-items: center;
     min-height: 100vh;
     background: #23242a;
+    background-image: url("../images/sea.jpg");
 }
 
 .box{
