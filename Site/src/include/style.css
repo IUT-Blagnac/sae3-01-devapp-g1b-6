@@ -1,1 +1,17 @@
+p {
+    font-family: Arial, Verdana, sans-serif;
+}
 
+a.bouton5{
+    display: block;
+    width: 200px;
+    
+    background-color: cornflowerblue;
+    transition: all 0.7s ease-out 0s;
+    font-weight: bold;
+    text-align: center;
+}
+
+a.bouton5:hover{
+    background-color: blue;
+}
