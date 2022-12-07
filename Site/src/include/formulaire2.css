@@ -162,12 +162,3 @@ input[type="submit"]:active{
     opacity: 0.8;
 }
 
-.links{
-    display: flex;
-    font-size: 70%;
-    margin-left: 10px;
-    padding-top : 20px;
-    color : #8f8f8f;
-    position: relative;
-}
-
