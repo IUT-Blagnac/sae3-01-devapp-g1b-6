@@ -4,6 +4,7 @@
 	<meta charset="utf-8"/>
     <link rel="stylesheet" href="include/contact_style.css">
 	<title>NOUS CONTACTER</title>
+	<?php include("./include/header.php");?>
 </head>
 <body bgcolor="#FFA533">	
 	<div style="padding: 20px">
@@ -45,4 +46,5 @@
 		© 2022, SubOne.com
 	</div>
 </footer>
+<?php include("./include/footer.php");?>
 </html>
