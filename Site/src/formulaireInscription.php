@@ -27,6 +27,11 @@
                 <i></i>
             </div>
             <div class="inputBox">
+                <input type="text" required>
+                <span>Téléphone</span>
+                <i></i>
+            </div>
+            <div class="inputBox">
                 <input type="password" required>
                 <span>Mot de passe</span>
                 <i></i>
