@@ -1,0 +1,204 @@
+   --- AM107-9 ---
+
+Temperature : 21.1 degres.
+Pourcentage d'humidite : 35 %.
+Taux de C02 : 547 ppm.
+
+   --- AM107-2 ---
+
+Temperature : 22.8 degres.
+Pourcentage d'humidite : 42 %.
+Taux de C02 : 2105 ppm.
+
+   --- AM107-4 ---
+
+Temperature : 22.6 degres.
+Pourcentage d'humidite : 44 %.
+Taux de C02 : 2156 ppm.
+
+   --- AM107-5 ---
+
+Temperature : 20.4 degres.
+Pourcentage d'humidite : 40 %.
+Taux de C02 : 928 ppm.
+
+   --- AM107-8 ---
+
+Temperature : 18.9 degres.
+Pourcentage d'humidite : 38 %.
+Taux de C02 : 489 ppm.
+
+   --- AM107-6 ---
+
+Temperature : 22.8 degres.
+Pourcentage d'humidite : 44 %.
+Taux de C02 : 2004 ppm.
+
+   --- AM107-11 ---
+
+Temperature : 19.7 degres.
+Pourcentage d'humidite : 36 %.
+Taux de C02 : 447 ppm.
+
+   --- AM107-10 ---
+
+Temperature : 20.8 degres.
+Pourcentage d'humidite : 38 %.
+Taux de C02 : 535 ppm.
+
+   --- AM107-45 ---
+
+Temperature : 20.2 degres.
+Pourcentage d'humidite : 37 %.
+Taux de C02 : 533 ppm.
+
+   --- AM107-7 ---
+
+Temperature : 19.8 degres.
+Pourcentage d'humidite : 36 %.
+Taux de C02 : 469 ppm.
+
+   --- AM107-3 ---
+
+Temperature : 23.2 degres.
+Pourcentage d'humidite : 42 %.
+Taux de C02 : 1987 ppm.
+
+   --- AM107-9 ---
+
+Temperature : 21.1 degres.
+Pourcentage d'humidite : 35 %.
+Taux de C02 : 541 ppm.
+
+   --- AM107-2 ---
+
+Temperature : 22.6 degres.
+Pourcentage d'humidite : 41.5 %.
+Taux de C02 : 1972 ppm.
+
+   --- AM107-4 ---
+
+Temperature : 22.6 degres.
+Pourcentage d'humidite : 44 %.
+Taux de C02 : 2146 ppm.
+
+   --- AM107-5 ---
+
+Temperature : 20.4 degres.
+Pourcentage d'humidite : 40 %.
+Taux de C02 : 917 ppm.
+
+   --- AM107-8 ---
+
+Temperature : 18.9 degres.
+Pourcentage d'humidite : 38 %.
+Taux de C02 : 493 ppm.
+
+   --- AM107-6 ---
+
+Temperature : 22.7 degres.
+Pourcentage d'humidite : 44 %.
+Taux de C02 : 1939 ppm.
+
+   --- AM107-11 ---
+
+Temperature : 19.7 degres.
+Pourcentage d'humidite : 36 %.
+Taux de C02 : 455 ppm.
+
+   --- AM107-10 ---
+
+Temperature : 20.8 degres.
+Pourcentage d'humidite : 38 %.
+Taux de C02 : 531 ppm.
+
+   --- AM107-45 ---
+
+Temperature : 20.2 degres.
+Pourcentage d'humidite : 37 %.
+Taux de C02 : 525 ppm.
+
+   --- AM107-7 ---
+
+Temperature : 19.8 degres.
+Pourcentage d'humidite : 36 %.
+Taux de C02 : 466 ppm.
+
+   --- AM107-3 ---
+
+Temperature : 23 degres.
+Pourcentage d'humidite : 41.5 %.
+Taux de C02 : 1899 ppm.
+
+   --- AM107-9 ---
+
+Temperature : 21.2 degres.
+Pourcentage d'humidite : 35 %.
+Taux de C02 : 544 ppm.
+
+   --- AM107-2 ---
+
+Temperature : 22.4 degres.
+Pourcentage d'humidite : 40.5 %.
+Taux de C02 : 1752 ppm.
+
+   --- AM107-4 ---
+
+Temperature : 22.3 degres.
+Pourcentage d'humidite : 43 %.
+Taux de C02 : 1942 ppm.
+
+   --- AM107-5 ---
+
+Temperature : 20.3 degres.
+Pourcentage d'humidite : 40 %.
+Taux de C02 : 912 ppm.
+
+   --- AM107-8 ---
+
+Temperature : 18.9 degres.
+Pourcentage d'humidite : 38 %.
+Taux de C02 : 483 ppm.
+
+   --- AM107-6 ---
+
+Temperature : 22.6 degres.
+Pourcentage d'humidite : 43.5 %.
+Taux de C02 : 1743 ppm.
+
+   --- AM107-11 ---
+
+Temperature : 19.8 degres.
+Pourcentage d'humidite : 36 %.
+Taux de C02 : 459 ppm.
+
+   --- AM107-10 ---
+
+Temperature : 20.8 degres.
+Pourcentage d'humidite : 38 %.
+Taux de C02 : 529 ppm.
+
+   --- AM107-45 ---
+
+Temperature : 20.2 degres.
+Pourcentage d'humidite : 37 %.
+Taux de C02 : 522 ppm.
+
+   --- AM107-7 ---
+
+Temperature : 19.7 degres.
+Pourcentage d'humidite : 36 %.
+Taux de C02 : 469 ppm.
+
+   --- AM107-3 ---
+
+Temperature : 22.9 degres.
+Pourcentage d'humidite : 41.5 %.
+Taux de C02 : 1787 ppm.
+
+   --- AM107-9 ---
+
+Temperature : 21.2 degres.
+Pourcentage d'humidite : 35 %.
+Taux de C02 : 582 ppm.
+
