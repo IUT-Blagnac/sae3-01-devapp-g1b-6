@@ -105,3 +105,20 @@ De plus ce fichier `README.adoc` devra être à jour des informations suivantes 
 - Tests unitaires et plans de test
 - Indicateurs de qualité du code (dette technique)
 - ... tout autre élément que vous jugerez utiles pour démontrer la qualité de votre application
+
+=== Évaluations hebdomadaires
+
+NOTE: Les notes ci-dessous sont mises à jour directement par les enseignants responsables de la compétence 5.
+
+ifdef::env-github[]
+image:https://docs.google.com/spreadsheets/d/e/2PACX-1vTc3HJJ9iSI4aa2I9a567wX1AUEmgGrQsPl7tHGSAJ_Z-lzWXwYhlhcVIhh5vCJxoxHXYKjSLetP6NS/pubchart?oid=1950296416&format=image[link=https://docs.google.com/spreadsheets/d/e/2PACX-1vTc3HJJ9iSI4aa2I9a567wX1AUEmgGrQsPl7tHGSAJ_Z-lzWXwYhlhcVIhh5vCJxoxHXYKjSLetP6NS/pubchart?oid=1950296416&format=image]
+endif::[]
+
+ifndef::env-github[]
+++++
+<iframe width="786" height="430" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTc3HJJ9iSI4aa2I9a567wX1AUEmgGrQsPl7tHGSAJ_Z-lzWXwYhlhcVIhh5vCJxoxHXYKjSLetP6NS/pubchart?oid=1950296416&format=image"></iframe>
+++++
+endif::[]
+
+=Sprint 1 retour :
+Backlog Ecommerce ok même si des erreurs de syntaxe dans la rédaction. Par contre pourquoi j'ai une colonne US puis Backlog produit ? J'ai encore des "en cours" dans un sprint qui est terminé. Les tâches doivent avoir un label et être assignées. Elles sont aussi ratachées à une US. En IOT pas de backlog produit ni d'organisation en sprint, juste une liste d'issues sans label ni assignement. Des livraisons mais des tests que sur l'IOT. Je n'ai pas touvé vos docs tech et user.
