@@ -120,5 +120,5 @@ ifndef::env-github[]
 ++++
 endif::[]
 
-=Sprint 1 retour :
+=Sprint 3 retour :
 Backlog Ecommerce ok même si des erreurs de syntaxe dans la rédaction. Par contre pourquoi j'ai une colonne US puis Backlog produit ? J'ai encore des "en cours" dans un sprint qui est terminé. Les tâches doivent avoir un label et être assignées. Elles sont aussi ratachées à une US. En IOT pas de backlog produit ni d'organisation en sprint, juste une liste d'issues sans label ni assignement. Des livraisons mais des tests que sur l'IOT. Je n'ai pas touvé vos docs tech et user.
