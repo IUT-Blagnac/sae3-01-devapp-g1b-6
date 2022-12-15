@@ -1,0 +1,7 @@
+server : chirpstack.iut-blagnac.fr
+appId : 1
+deviceId : +
+tauxMaxC02 : 1000
+tauxMaxTemp : 15
+tauxMaxHum : 40
+frequence : 60
