@@ -93,7 +93,7 @@ TIP: Mettez ici toutes les informations nécessaire à l'utilisation de votre d�
 
 |===========================================================
 |Nom du dossier|Lien
-|Appels d'offre | (Appels d'offre/DCE _CDCF_CDCT G1B-6.zip)
+|Appels d'offre | [ici](https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Appels%20d'offre)
 | Partie BD| [ici]
 | Partie Web| [ici]
 | Partie IOT| [ici]
