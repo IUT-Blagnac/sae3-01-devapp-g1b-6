@@ -1,0 +1,6 @@
+   --- AM107-10 ---
+
+Attention, seuil de temperature depasse ! (20.2).
+Attention, seuil d'humidite depasse ! (48).
+Taux de C02 : 513 ppm.
+
