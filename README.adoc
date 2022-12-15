@@ -91,6 +91,19 @@ TIP: Pensez à utiliser les salons Discord dédiés pour poser vos questions.
 
 TIP: Mettez ici toutes les informations nécessaire à l'utilisation de votre dépôt (comment on installe votre application, où sont les docs, etc.)
 
+|===========================================================
+|Nom du dossier|Lien
+|Appels d'offre | [ici]Appels d'offre/DCE _CDCF_CDCT G1B-6.zip
+| Partie BD| [ici]
+| Partie Web| [ici]
+| Partie IOT| [ici]
+| Partie Communication | [ici]
+| Site-Web| [ici]
+| Docs techniques| [ici]
+| Docs utilisateurs| [ici]
+| Les tests| [ici]
+|===========================================================
+
 == Gestion de projet & Qualité
 
 Chaque sprint (semaine) vous devrez livrer une nouvelle version de votre application (release).
