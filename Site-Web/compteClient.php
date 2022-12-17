@@ -4,7 +4,4 @@
 		header('location: formulaireConnexion.php');
 	}
 	
-
-
-
 ?>
