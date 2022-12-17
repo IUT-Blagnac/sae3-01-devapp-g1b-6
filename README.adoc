@@ -98,7 +98,7 @@ TIP: Mettez ici toutes les informations nécessaire à l'utilisation de votre d�
 | Partie Web| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/D%C3%A9veloppement%20Web[ici]
 | Partie IOT| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/IOT[ici]
 | Partie Communication | https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Communication[ici]
-| Site-Web| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Site/src[ici]
+| Site-Web| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Site-Web[ici]
 | Docs techniques| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Documentations%20techniques[ici]
 | Docs utilisateurs| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Documentations%20utilisateurs[ici]
 | Les tests| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Tests[ici]
