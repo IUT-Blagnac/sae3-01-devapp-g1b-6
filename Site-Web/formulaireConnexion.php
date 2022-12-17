@@ -18,7 +18,7 @@
         
             <h2>Veuillez vous <p>connecter </p> </h2>
             <div class="inputBox">
-                <input type="text" name="email" required
+                <input type="text" name="login" required
 				<?php
 					if(isset($_COOKIE['cookIdent'])){
 						echo "value='".$_COOKIE['cookIdent']."'";
