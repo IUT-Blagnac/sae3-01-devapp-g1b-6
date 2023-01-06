@@ -31,10 +31,10 @@ def on_connect(client, userdata, flags, rc):
     client.subscribe(topic.format(appId, deviceId))
 
 def on_message(client, userdata, msg):
-    ft = os.open("./temperature.txt", os.O_WRONLY | os.O_CREAT | os.O_APPEND) #fichier des températures
-    fc = os.open("./c02.txt", os.O_WRONLY | os.O_CREAT | os.O_APPEND) #fichier des taux de c02
-    fh = os.open("./humidite.txt", os.O_WRONLY | os.O_CREAT | os.O_APPEND) #fichier de % d'humidité
-    fs = os.open("./seuil.txt", os.O_WRONLY | os.O_CREAT | os.O_APPEND) #fichier des seuils d'alerte
+    ft = os.open("./temperature.txt", os.O_WRONLY | os.O_CREAT | os.O_TRUNC) #fichier des températures
+    fc = os.open("./c02.txt", os.O_WRONLY | os.O_CREAT | os.O_TRUNC) #fichier des taux de c02
+    fh = os.open("./humidite.txt", os.O_WRONLY | os.O_CREAT | os.O_TRUNC) #fichier de % d'humidité
+    fs = os.open("./seuil.txt", os.O_WRONLY | os.O_CREAT | os.O_TRUNC) #fichier des seuils d'alerte
     global t
     global h
     global c
