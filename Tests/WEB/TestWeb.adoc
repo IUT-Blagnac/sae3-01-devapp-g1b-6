@@ -1,0 +1,103 @@
+= Tests du site web, réalisés par Esteban BIRET-TOSCANO.
+:toc:
+:toc-title: Sommaire
+:numbered:
+
+== Connexion
+
+L'utilisateur entre son adresse-mail et son mot de passe dans le formulaire de connexion (accessible en cliquant sur le bouton 'Connexion' du header).
+
+|=======
+|Test |Attendu |Résultat
+|Connexion avec compte client |Redirection vers accueil avec modification du header |Ok
+|Connexion avec mdp incorrect|Redirection vers formulaire de connexion avec message d'erreur explicite |Ok
+|Connexion avec compte inexistant |Redirection vers formulaire de connexion avec message d'erreur explicite|Ok
+|Connexion en cliquant sur 'Se souvenir de moi' |Lors de la déconnexion puis connexion, le champ login est déjà pré-rempli|Ok
+|=======
+
+== Déconnexion
+
+L'utilisateur appuie sur le bouton 'Déconnexion' du header.
+
+|=======
+|Test |Attendu |Résultat
+|Déconnexion du site |Redirection vers accueil avec modification du header | Ok
+|=======
+
+== Inscription
+
+L'utilisateur entre différentes informations via un formulaire de création de compte (nom, prénom, adresse-mail, numéro de tel, mdp).
+Les données entrées sont vérifiées par des REGEX pour valider ou non la création d'un compte.
+
+|=======
+|Test |Attendu |Résultat
+|Création compte client correct |Redirection vers accueil| Ok
+|Création compte incorrect (un des champs n'est pas conforme)|Redirection vers formulaire avec message d'erreur explicite| Ok
+|=======
+
+== Modification de compte
+
+Une fois connecté, l'utilisateur voit les informations de son compte (nom, prénom, numéro de tel, email).
+Il peut cliquer sur le bouton 'Modifier' pour modifier les informations de son compte (même le mdp).
+
+|=======
+|Test |Attendu |Résultat
+|Cliquer sur le bouton 'Compte client' sans être connecté|Redirection vers formulaire de connexion| Ok
+|Cliquer sur le bouton 'Compte client' |Redirection vers la page 'modifClient.php'| Ok
+|Modifier ses informations | Lors de la soumission du formulaire avec les nouvelles informations, redirection vers l'accueil.| Ok
+|Modifier ses informations incorrect (un des champs n'est pas conforme)|Redirection vers formulaire modifClient.php avec message d'erreur explicite| Ok
+|Information bien mises à jour | Après avoir modifié son compte, les infos de celui-ci sont bien actualisées sur la page 'Compte Client'| Ok
+|=======
+
+== Recherche d'articles par leurs noms
+
+L'utilisateur entre le nom d'un produit dans la barre de recherche de la page 'Produit.php' et appuie sur la touche 'Entrée' du clavier.
+
+|=======
+|Test |Attendu |Résultat
+|Saisie du nom d'un article présent |Affichage page de résultat avec liste des produits correspondants| Ok
+|Saisie d'une chaine de caractères |Affichage page de résultat avec liste des produits comportant la chaine en question dans leurs noms (peut importe la casse !) | Ok
+|Saisie du nom d'un article non présent  |Afficgae page de résultat vide | Ok
+|Aucune saisie de nom |Affichage tous les produits| Ok
+|=======
+
+== Recherche d'articles par leurs catégories
+
+L'utilisateur entre la catégorie d'un produit dans la barre de recherche de la page 'Produit.php' et appuie sur la touche 'Entrée' du clavier.
+Il peut également cliquer sur les boutons représentant les 6 catégories de sous-marins.
+
+|=======
+|Test |Attendu |Résultat
+|Saisie d'une catégorie existante |Affichage page de résultat avec liste des produits appartenants à la catégorie en question| Ok
+|Cliquer sur la catégorie 'Plaisance' |Affichage page de résultat avec liste des produits appartenants à la catégorie 'Plaisance'| Ok
+|=======
+
+== Consulter le détail d'un produit
+
+L'utilisateur peut accéder aux informations d'un produit en cliquant dessus ou sur le bouton 'Informations'.
+
+|=======
+|Test |Attendu |Résultat
+|Cliquer sur un produit|Ouverture de la page du produit 'detailArticle.php'|Ok
+|Cliquer sur le bouton prévu à cet effet|Ouverture de la page du produit 'detailArticle.php'|Ok
+|=======
+
+== Panier
+
+Pas encore développé
+
+|=======
+|Test |Attendu |Résultat
+| | |
+| | | 
+|=======
+
+== Commande
+
+Pas encore développé
+
+|=======
+|Test |Attendu |Résultat
+| | |
+| | | 
+|=======
