@@ -57,7 +57,7 @@ L'utilisateur entre le nom d'un produit dans la barre de recherche de la page 'P
 |Test |Attendu |Résultat
 |Saisie du nom d'un article présent |Affichage page de résultat avec liste des produits correspondants| Ok
 |Saisie d'une chaine de caractères |Affichage page de résultat avec liste des produits comportant la chaine en question dans leurs noms (peut importe la casse !) | Ok
-|Saisie du nom d'un article non présent  |Afficgae page de résultat vide | Ok
+|Saisie du nom d'un article non présent  |Affichage page de résultat vide | Ok
 |Aucune saisie de nom |Affichage tous les produits| Ok
 |=======
 
