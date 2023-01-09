@@ -93,10 +93,10 @@ TIP: Mettez ici toutes les informations nécessaire à l'utilisation de votre d�
 
 |===========================================================
 |Nom du dossier|Lien
-| Partie BD| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Base%20de%20donn%C3%A9es[ici]
-| Partie Web| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/D%C3%A9veloppement%20Web[ici]
+| Partie BD (rendus de Webetud dupliqués ici)| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Base%20de%20donn%C3%A9es[ici]
+| Partie Web (rendus de Webetud dupliqués ici)| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/D%C3%A9veloppement%20Web[ici]
 | Partie IOT| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/IOT[ici]
-| Partie Communication | https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Communication[ici]
+| Partie Communication (rendus de Webetud dupliqués ici)| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Communication[ici]
 | Fichiers src du Site-Web| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Fichiers%20src%20site-web[ici]
 | Docs techniques| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Documentations%20techniques[ici]
 | Docs utilisateurs| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Documentations%20utilisateurs[ici]
