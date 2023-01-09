@@ -100,7 +100,9 @@ TIP: Mettez ici toutes les informations nécessaire à l'utilisation de votre d�
 | Fichiers src du Site-Web| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Fichiers%20src%20site-web[ici]
 | Docs techniques| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Documentations%20techniques[ici]
 | Docs utilisateurs| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Documentations%20utilisateurs[ici]
-| Les tests| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Tests[ici]
+| Tests WEB| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Tests/WEB[ici]
+| Tests IOT| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Tests/IOT[ici]
+| Tests BD| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Tests/BD[ici]
 |===========================================================
 
 == Gestion de projet & Qualité
