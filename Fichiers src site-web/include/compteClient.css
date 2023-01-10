@@ -1,0 +1,70 @@
+*{
+	overflow: hidden;
+}
+
+html{
+	margin: 0;
+	height: 100%;
+}
+body{
+    background-image:url(../images/image_fond_client.png);
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+	position: inherit;
+	margin-top: 120px;
+	flex-direction:column;
+	display: flex;
+}
+
+content{
+	background-color: #60abbf;
+	width: 65%;
+	height: 500px;
+	display: flex;
+	flex-direction: column;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5%;
+}
+
+#titre{
+	width:100%;
+	height:fit-content;
+	text-align:center;
+	font-size: xx-large;
+	margin-top:2%;
+	font-family:Arial Black;
+	text-decoration:underline;
+	color: darkslategray;
+}
+.info{
+	color: white;
+	margin-left: 15%;
+	margin-top: 4%;
+	font-size: x-large;
+	font-family: Arial;
+}
+#bouton{
+	width: 100%;
+	font-size: inherit;
+	font-family: Arial;
+	color: white;
+	background-color: #06395a;
+	border-color: #06395a;
+	border-radius: 45px;
+	height: 30px;
+	transition-duration: 1s;
+}
+#bouton:hover{
+	transition-duration: 1s;
+	background-color: #fcbb00;
+	border-color: #fcbb00;
+}
+
+#lien{
+	width:18%;
+	margin-top: 4%;
+	margin-left: auto;
+	margin-right: auto;
+}
