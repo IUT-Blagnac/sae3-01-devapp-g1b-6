@@ -2,6 +2,14 @@ server : chirpstack.iut-blagnac.fr
 appId : 1
 deviceId : +
 tauxMaxC02 : 1000
+tauxMinC02 : 0
+seuilCO2 : 800
+frequenceCO2 : 100
 tauxMaxTemp : 15
+tauxMinTemp : 0
+seuilTemp : 50
+frequenceTemp : 2
 tauxMaxHum : 40
-frequence : 60
+tauxMinHum : 0
+seuilHum : 800
+frequenceHum : 100
