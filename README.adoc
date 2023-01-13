@@ -115,7 +115,7 @@ De plus ce fichier `README.adoc` devra être à jour des informations suivantes 
 
 - Version courante : https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/releases/tag/V4.1[V4.1]
 - Lien vers le backlog produit IOT & E-commerce https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Backlog%20Produit%20IOT%20%26%20E-commerce.adoc[ici]
-- Lien vers le backlog de Sprint 6 à ajouter [ici]
+- Lien vers le backlog de Sprint 6 https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Backlog%20Produit%20Sprint%206.adoc [ici]
 - Lien vers la doc technique Web  https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Documentation%20technique%20WEB%20V4.1.pdf[ici]
 - Lien vers la doc utilisateur Web https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Documentation%20utilisateur%20WEB%20V4.1.pdf[ici]
 - Lien vers les User Stories : https://github.com/orgs/IUT-Blagnac/projects/33[ici]
