@@ -93,6 +93,7 @@ L'utilisateur peut ajouter des articles à son panier, les supprimer, valider so
 | Supprimer un article du panier| L'utilisateur clique sur le bouton 'Supprimer' présent sur chaque article du panier. L'article est supprimé du panier au niveau BD, et il n'est plus affiché sur le panier coté WEB| Ok
 | Supprimer le panier| Si l'utilisateur Clique sur 'Supprimer le panier', le contenu du panier est supprimé coté BD, et coté WEB, un message indique à l'utilisateur que son panier est vide, et lui invite à consulter la page produit, à l'aide d'un bouton. | Ok
 | Prix du panier| Le prix du panier varie en fonction des articles & de leurs quantités, il est affiché en haut à droite du panier et change également coté BD à chaque modification du panier (ajout/retrait d'articles)| Ok
+| Le panier du client est permanent, jusqu'à ce qu'il le modifie / valide / supprime | Une fois déconnecté, je peux me reconnecter un certain temps plus tard, et voir que mon panier reste inchangé| Ok
 | Valider le panier| L'utilisateur clique sur le bouton 'Valider le panier', il est ensuite redirigé vers la page qui s'occupe de prendre les informations de paiement, présentant un bouton 'Retour au panier' et un bouton 'Valider la commande'| Pas encore développé
 |=======
 
