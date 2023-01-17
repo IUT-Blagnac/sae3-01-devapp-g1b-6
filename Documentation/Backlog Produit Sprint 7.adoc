@@ -1,0 +1,21 @@
+= Backlog Sprint 7, réalisé par Esteban BIRET-TOSCANO & Enzo Mancini.
+:toc:
+:toc-title: Sommaire
+:numbered:
+
+== Application IOT (Enzo)
+
+|=======
+|User Story |Tâches associées|Estimation (en heures)
+à faire enzo
+|=======
+
+== Site E-commerce (Esteban)
+
+|=======
+|User Story |Tâches associées|Estimation (en heures)
+|13 - En tant que client, je veux pouvoir valider mon panier.|Ajout du bouton 'Valider' sur la page du panier, qui quand cliqué ramène vers la page 'commande.php', qui comporte un formulaire pour remplir les informations de paiement.| 0.2
+|14 - En tant que client, je veux pouvoir valider ma commande.|Création du formulaire de paiement et de son style css. Création des REGEX associées pour chaque champ et création de pop-up en fonction des champs non-conformes | 3
+|11 - En tant que client, je veux pouvoir consulter les informations de mon panier (prix et quantité).| Ajout d'un bouton 'Retour au panier' sur la page 'commande.php'.|0.2
+|14 - En tant que client, je veux pouvoir valider ma commande.|Après avoir validé la commande, suppression côté BD du contenu du panier ET du panier du client, et ajout de la commande dans la table 'Commande'. Redirection vers la page d'accueil à l'aide d'un pop-up confirmant le passage de la commande.| 1.5
+|=======
