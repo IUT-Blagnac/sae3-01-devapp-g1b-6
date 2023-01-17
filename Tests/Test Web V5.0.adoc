@@ -1,4 +1,4 @@
-= Tests du site web V5.0, réalisés par Esteban BIRET-TOSCANO.
+= Tests du site web V6.0, réalisés par Esteban BIRET-TOSCANO.
 :toc:
 :toc-title: Sommaire
 :numbered:
@@ -111,10 +111,14 @@ L'utilisateur peut supprimer son compte en cliquant sur le bouton 'Compte client
 
 == Commande
 
-Pas encore développé
+En ayant au moins un article dans son panier, l'utilisateur peut la valider et passer à la commande.
 
 |=======
 |Test |Attendu |Résultat
-| | |
-| | | 
+| L'utilisateur clique sur 'Valider' dans la page panier| Il est redirigé vers une page présentant un formulaire pour le paiement|Ok
+| Une fois sur cette page, l'utilisateur décide de revenir à son panier en cliquant sur le bouton 'Retour au panier'| L'utilisateur est ramené vers son panier, qui reste inchangé|Ok 
+| L'utilisateur clique sur 'Valider' dans la page commande, alors que toutes les informations ne sont pas remplies| L'utilisateur reste sur cette page, et le formulaire indique le/les champs vide.s|Ok
+| L'utilisateur clique sur 'Valider' dans la page commande, en ayant mal rempli un ou plusieurs champs (REGEX non respectée.s)| L'utilisateur reste sur cette page, et le formulaire indique le/les champs incorrects via un pop-up JS|Ok
+| L'utilisateur clique sur 'Valider' dans la page commande, en ayant rempli toutes ses informations correctement| Un pop-up l'informe que sa commande a bien été validée, et l'utilisateur est redirigé vers la page d'accueil. Côté BD, une ligne est ajoutée dans la table 'Commande'|Ok
+| L'utilisateur revient sur son panier une fois la commande passée| Le panier affiche 'Votre panier est vide !'. Côté BD, le panier du client et son contenu sont supprimés après la commande|Ok
 |=======
