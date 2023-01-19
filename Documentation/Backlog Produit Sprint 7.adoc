@@ -18,4 +18,8 @@
 |14 - En tant que client, je veux pouvoir valider ma commande.|Création du formulaire de paiement et de son style css. Création des REGEX associées pour chaque champ et création de pop-up en fonction des champs non-conformes | 3
 |11 - En tant que client, je veux pouvoir consulter les informations de mon panier (prix et quantité).| Ajout d'un bouton 'Retour au panier' sur la page 'commande.php'.|0.2
 |14 - En tant que client, je veux pouvoir valider ma commande.|Après avoir validé la commande, suppression côté BD du contenu du panier ET du panier du client, et ajout de la commande dans la table 'Commande'. Ajout des articles commandés dans la table 'detailCommande', pour que l'utilisateur puisse consulter toutes ses commandes. Redirection vers la page d'accueil à l'aide d'un pop-up confirmant le passage de la commande.| 1.5
+|(User story non définie) En tant qu'administrateur du site, je souhaite pouvoir modifier le stock de mes articles.|Création du script JS permettant d'accéder à cet espace depuis l'accueil| 0.5
+|(User story non définie) En tant qu'administrateur du site, je souhaite pouvoir modifier le stock de mes articles.|Création de la page de Gestion et de son style| 0.8
+|(User story non définie) En tant qu'administrateur du site, je souhaite pouvoir modifier le stock de mes articles.|Création de la page d'ajout de stock et de son style| 1
+|(User story non définie) En tant qu'administrateur du site, je souhaite pouvoir modifier le stock de mes articles.|Création de la page de retrait de stock et de son style| 1
 |=======
