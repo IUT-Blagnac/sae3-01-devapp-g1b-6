@@ -1,0 +1,98 @@
+*{
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    color : grey;
+    overflow: hidden;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #23242a;
+    background-image: url("../images/sea.jpg");
+}
+.form1{
+    border: 0;
+    font-size: 3em;
+    border: 3px solid rgb(5, 30, 53);
+    border-style: double;
+    border-radius: 15px;
+	padding: 20px;
+	margin-top : -100px;
+	display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.lab{
+    color : #06395a;
+    font-weight : bold;
+    
+}
+
+input[type="submit"] {
+    color: white;
+    border-radius: 20px;
+    width: 110px;
+    font-family: Arial Black;
+    height: 48px;
+    transition-duration: 0.5s;
+    background-color: #06395a;
+    border: 2px solid #06395a;
+    border-radius: 45px;
+    
+}
+
+input[type="submit"]:hover {
+    background-color : green;
+    cursor :pointer;
+    border: 2px solid green;
+    
+}
+
+select:hover{
+	cursor:pointer;
+}
+
+input[type="number"]{
+border-radius : 20px;
+padding-left: 10px;
+padding-right: 20px;
+width : 80px;
+height : 30px;
+padding-top:1px;
+
+}
+
+input[type="number"]:focus{
+outline : none;
+}
+
+#retour{
+	position: absolute;
+    margin-top: 10%;
+	color: white;
+    border-radius: 20px;
+    width: 150px;
+    font-family: Arial Black;
+    height: 48px;
+    transition-duration: 0.5s;
+    background-color: #06395a;
+    border: 2px solid #06395a;
+    border-radius: 45px;
+}
+
+#retour:hover{
+	 background-color : #fcbb00;
+    cursor :pointer;
+    border: 2px solid #fcbb00;
+}
+
+a{
+	color:white;
+}

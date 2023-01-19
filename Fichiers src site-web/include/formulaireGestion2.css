@@ -1,0 +1,33 @@
+*{
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    color : grey;
+    overflow: hidden;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #23242a;
+    background-image: url("../images/sea.jpg");
+}
+.form1{
+    border: 0;
+    font-size: 3em;
+    border: 3px solid rgb(5, 30, 53);
+    border-style: double;
+    border-radius: 15px;
+    padding: 12px 45px;
+    font-family : "Times New Roman", Times, serif;
+}
+.lab{
+    color : #fff;
+    font-family : "Times New Roman", Times, serif;
+    font-weight : bold;
+
+}

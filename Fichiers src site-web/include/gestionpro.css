@@ -1,0 +1,45 @@
+*{
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    /*color : grey;*/
+    overflow: hidden;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #23242a;
+    background-image: url("../images/sea.jpg");
+}
+
+#b1, #b2{
+	color : white;
+  font-family: Arial Black;
+  width:140px;
+	transition-duration: 0.5s;
+	background-color: #06395a;
+	border: 2px solid #06395a;
+	border-radius: 45px;
+ height : 50px;
+}
+
+#b1:hover{
+	background-color: green;
+	border: 2px solid green;
+	cursor:pointer;
+}
+
+#b2:hover{
+	background-color: red;
+	border: 2px solid red;
+	cursor:pointer;
+}
+
+a{
+	color:white;
+}
