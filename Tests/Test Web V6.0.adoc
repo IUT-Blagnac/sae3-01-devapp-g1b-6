@@ -127,8 +127,15 @@ En ayant au moins un article dans son panier, l'utilisateur peut la valider et p
 
 == Espace administrateur
 
-Un admin peut ajouter / retirer du stock sur chaque article.
+Fonctionnalité ajouter/retirer du stock sur chaque article.
 
 |=======
 |Test |Attendu |Résultat
+| L'utilisateur tape 'admin' suivi de la touche 'Entrée' sur la page d'accueil du site|Un pop-up JS apparait, indiquant à la personne qu'elle va accéder à l'espace administrateur. Il ensuite redirigé vers la page de gestion des articles |Ok
+| Sur la page GestionProduit.php, l'utilisateur clique sur le bouton 'Ajouter du stock'|Il accède à un formulaire où il doit choisir l'article et la quantité à ajouter |Ok
+| Après avoir rempli le formulaire, il clique sur le bouton 'Valider'|Un pop-up JS apparait, indiquant à la personne combien d'articles ont été ajoutés, puis redirection sur la page GestionProduit.php |Ok
+| Sur la page GestionProduit.php, l'utilisateur clique sur le bouton 'Retirer du stock'|Il accède à un formulaire où il doit choisir l'article et la quantité à retirer |Ok
+| Après avoir rempli le formulaire, il clique sur le bouton 'Valider'|Un pop-up JS apparait, indiquant à la personne combien d'articles ont été retirés, puis redirection sur la page GestionProduit.php |Ok
+| Après avoir rempli le formulaire, il clique sur le bouton 'Valider', alors qu'il a retiré plus de stock que l'article en a actuellement|Un pop-up JS apparait, indiquant à la personne combien d'articles n'ont pas pu être ajoutés et le stock actuel de l'article en question, puis on reste sur la page. Aucun stock n'a été modifié |Ok
+| Sur ces 2 pages, un bouton 'Retour à la gestion' est présent, permettant de revenir à cette page à tout moment|L'utilisateur clique sur ce bouton, il est redirigé vers la page GestionProduit.php|Ok
 |=======
