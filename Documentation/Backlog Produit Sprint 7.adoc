@@ -7,7 +7,8 @@
 
 |=======
 |User Story |Tâches associées|Estimation (en heures)
-à faire enzo
+|2 - En tant qu'utilisateur, je veux pouvoir lire les informations choisies précédemment. |Ajout d'un bouton VALIDER sur la page de configuration qui va changer le fichier config.yml avec les données saisies et un thread actualise la page.| 7
+|3 - En tant qu'utilisateur, j'aimerais pouvoir visualiser ces informations sous forme de graphiques, afin d'améliorer la visibilité.|Utilisation de trois graphique (BarChar) sur lequel le niveau actuel (CO2,Température ou Humidité)est montré grâce à une première barre et une deuxième représente le seuil de danger, les graphiques sont actualisés toute les dix minustes grâce à un thread.| 15
 |=======
 
 == Site E-commerce (Esteban)
