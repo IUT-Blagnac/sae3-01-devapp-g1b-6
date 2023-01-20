@@ -1,4 +1,0 @@
-{server: chirpstack.iut-blagnac.fr, seuilHum: '80', capteurHum: AM107-2, tauxMaxCO2: '1030',
-  capteurCO2: AM107-9, deviceId: +, tauxMinCO2: '0', seuilTemp: '60', tauxMaxHum: '100',
-  tauxMinHum: '0', appId: '1', tauxMaxTemp: '80', frequenceCO2: '100', frequenceTemp: '2',
-  frequenceHum: '1', capteurTemp: AM107-2, seuilCO2: '800', tauxMinTemp: '0'}
