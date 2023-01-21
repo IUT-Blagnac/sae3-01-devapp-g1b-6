@@ -1,1 +1,1 @@
-image::my_filename.png[]
+image::Logo_Subone_png.png[]
