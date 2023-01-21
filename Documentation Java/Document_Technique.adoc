@@ -1,3 +1,0 @@
-image::Logo_SubOne_png.png[]
-# Document technique de l'application Java de SubOne
-'Réalisé par Enzo Mancini'
