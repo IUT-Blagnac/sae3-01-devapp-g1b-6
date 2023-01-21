@@ -1,1 +1,1 @@
-image::Logo_Subone_png.png[]
+image::Logo_SubOne_png.png[]
