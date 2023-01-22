@@ -30,4 +30,5 @@
 |12 |En tant que client, je veux pouvoir supprimer l'intégralité de mon panier.|Haute| Sur le panier, un bouton 'Supprimer' permet de supprimer le panier. Le client reste sur son panier, mais ce dernier affiche désormais 'Votre panier est vide !', et un bouton invite le client à consulter les produits du site. 
 |13 |En tant que client, je veux pouvoir valider mon panier.|Haute| Sur le panier, un bouton 'Valider' permet d'afficher la page de commande.
 |14 |En tant que client, je veux pouvoir valider ma commande.|Haute| Une fois sur la page de commande et après avoir rempli mes information de paiement (correctement), je clique sur le bouton 'Valider ma commande'.| 
+|15 |En tant qu’administrateur du site, je souhaite pouvoir modifier le stock de mes articles.|Moyenne|Sur la page d'accueil, je tape 'admin'. J'accède à l'espace administrateur, où je peux modifier à ma guise le stock des articles. | 
 |=======
