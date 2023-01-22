@@ -98,13 +98,14 @@ TIP: Mettez ici toutes les informations nécessaire à l'utilisation de votre d�
 | Partie Communication (rendus de Webetud dupliqués ici)| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Communication[ici]
 | Fichiers src du Site-Web| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Fichiers%20src%20site-web[ici]
 | Fichiers src IOT| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Fichiers%20src%20IOT[ici]
-| Doc technique WEB à jour| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Documentation%20technique%20WEB%20V6.pdf[ici]
-| Doc utilisateur WEB à jour | https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Documentation%20utilisateur%20WEB%20V6.pdf[ici]
-| Doc utilisateur Python|https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Doc%20installation%20et%20utilisation%20python.pdf[ici]
+| Documentation technique WEB à jour| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Documentation%20technique%20WEB%20V6.pdf[ici]
+| Documentation utilisateur WEB à jour | https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Documentation%20utilisateur%20WEB%20V6.pdf[ici]
+| Documentation Python|https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Documentation%20Python[ici]
 | Tests WEB à jour| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Tests/Test%20Web%20V6.0.adoc[ici]
 | Tests Python| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Tests/Test%20Python.py[ici]
 | Tests BD V5.0| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Tests/Test%20BD.pdf[ici]
 | Analyse d'impact| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Droit%20analyse%20impact.pdf[ici]
+| Documentation technique JAVA | https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation%20Java/G1B-6%20Documentation%20technique%20Java.pdf[ici]
 |===========================================================
 
 == Gestion de projet & Qualité
@@ -114,9 +115,8 @@ Utilisez pour cela les fonctionnalités de GitHub pour les https://docs.github.c
 
 De plus ce fichier `README.adoc` devra être à jour des informations suivantes :
 
-- Version courante : https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/releases/tag/V5.0[V5.0]
+- Version courante : https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/releases/tag/V5.0[V6.0]
 - https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Backlog%20Produit%20IOT%20%26%20E-commerce.adoc[Backlog produit IOT & E-commerce]
-- https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Backlog%20Produit%20Sprint%206.adoc[Backlog de Sprint 6]
 - https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Backlog%20Produit%20Sprint%207.adoc[Backlog de Sprint 7]
 - https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Documentation%20technique%20WEB%20V6.pdf[Documentation technique Web à jour]
 - https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Documentation%20utilisateur%20WEB%20V6.pdf[Documentation utilisateur Web à jour] 
