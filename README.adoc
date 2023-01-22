@@ -115,7 +115,7 @@ Utilisez pour cela les fonctionnalités de GitHub pour les https://docs.github.c
 
 De plus ce fichier `README.adoc` devra être à jour des informations suivantes :
 
-- Version courante : https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/releases/tag/V5.0[V6.1]
+- Version courante : https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/releases/tag/V6.1[V6.1]
 - https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Backlog%20Produit%20IOT%20%26%20E-commerce.adoc[Backlog produit IOT & E-commerce]
 - https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Backlog%20Produit%20Sprint%207.adoc[Backlog de Sprint 7]
 - https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Documentation%20technique%20WEB%20V6.pdf[Documentation technique Web à jour]
