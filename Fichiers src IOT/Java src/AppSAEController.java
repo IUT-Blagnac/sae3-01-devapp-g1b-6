@@ -107,6 +107,7 @@ public class AppSAEController implements Initializable {
         graphCO2.setLegendVisible(false);
         //on change la largeur des barres en mettant un espace entre elles
         graphCO2.setCategoryGap(40);
+        graphCO2.setAnimated(false);
     }
 
     /**
@@ -157,6 +158,7 @@ public class AppSAEController implements Initializable {
         this.graphTEMP.setLegendVisible(false);
         //on change la largeur des barres en mettant un espace entre elles
         this.graphTEMP.setCategoryGap(40);
+        graphTEMP.setAnimated(false);
     }
 
     /**
@@ -207,6 +209,7 @@ public class AppSAEController implements Initializable {
         this.graphHUM.setLegendVisible(false);
         //on change la largeur des barres en mettant un espace entre elles
         this.graphHUM.setCategoryGap(40);
+        graphHUM.setAnimated(false);
     }
 
     /**
