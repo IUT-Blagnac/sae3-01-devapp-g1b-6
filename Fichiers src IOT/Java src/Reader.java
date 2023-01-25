@@ -7,22 +7,22 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Classe que j'ai créé pour avoir lire différent type de fichier avec FileReader
+ * Classe permettant de lire les différents fichiers et de charger le fichier de config
  * */
 public class Reader {
 
     /**
-     * Méthode qui lit les fichiers txt (co2, temp, hum) et les transforment en HashMap<String, String>
+     * Méthode qui lit les fichiers txt (co2, temp, hum) et les transforme en HashMap<String, String>
      * */
     public HashMap<String, String> readerTXT(String pathfile){
         //on instancie le HashMap à remplir
         HashMap<String, String> dict = new HashMap<>();
         try {
-            //on créait un objet File qui prend comme valeur le fichier indiqué avec le pathfile
+            //on créé un objet File qui prend comme valeur le fichier indiqué avec le pathfile
             File file = new File(pathfile);
-            //On créait un FileReader avec file en paramètre
+            //On créé un FileReader avec file en paramètre
             FileReader fr = new FileReader(file);
-            //On créait finalement un BufferedReader avec le FileReader en paramètre
+            //On créé finalement un BufferedReader avec le FileReader en paramètre
             BufferedReader bfr = new BufferedReader(fr);
 
             //on créait des variables qui nous seront utiles
@@ -51,8 +51,9 @@ public class Reader {
      * Méthode qui charge un fichier yaml dans un Map
      * */
     public Map<String, String> chargerYaml(){
-        //on créait notre Map qui est null pour l'instant
+        //on créé notre Map qui est null pour l'instant
         Map<String , String> data = null;
+        
         try {
             // Créer un parseur de fichier yml
             Yaml yaml = new Yaml();
