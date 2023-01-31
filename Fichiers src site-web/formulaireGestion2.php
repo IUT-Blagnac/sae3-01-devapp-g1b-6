@@ -24,7 +24,7 @@ if (!isset($_SESSION['access'])) {
  
  <div class = "titre" style = "text-align: center;
     position: absolute;
-    font-size: 50px;
+    font-size: 55px;
     font-weight: 500;
     color: #06395a;
     margin-top: -25%;
