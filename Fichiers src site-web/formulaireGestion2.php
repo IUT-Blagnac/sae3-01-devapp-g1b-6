@@ -34,7 +34,7 @@ if (!isset($_SESSION['access'])) {
 	
 <form method ="POST" class = "form1" action="formulaireGestion2.php"  style = "background-color : #1AE2F9;">
             <label class ="lab">Produit :</label>
-            <select name="select" style="height:30px; width:205px;padding:5px;" required>
+            <select name="select" style="height:35px; width:210px;padding:5px;" required>
             <option value="" disabled selected hidden > Veuillez choisir un article </option>
 <?php
 $nomarticle = "SELECT * FROM ARTICLE ORDER BY NOMARTICLE ASC";
@@ -46,7 +46,7 @@ while (($affichage = oci_fetch_assoc($nomA)) != false){
 ?>
             </select>
             <label class ="lab">Quantité :</label>
-            <input type="number" name="tentacles" min="1" max="100" value ="1" required>
+            <input type="number" name="tentacles" min="1" max="50" value ="1" required>
             <input type="submit" name= "Valider" value="Valider">
         </form>
 
