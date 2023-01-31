@@ -1,0 +1,51 @@
+*{
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    color : grey;
+    overflow: hidden;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #23242a;
+    background-image: url("../images/sea.jpg");
+}
+.form1{
+    border: 0;
+    font-size: 11px;
+    border-style: double;
+    border-radius: 15px;
+    padding: 12px 45px;
+    font-family : "Times New Roman", Times, serif;
+    color: black;
+}
+.select{
+    border: 0;
+    font-size: 11px;
+    border-style: double;
+    border-radius: 15px;
+    padding: 12px 45px;
+    font-family : "Times New Roman", Times, serif;
+    color: black;
+}
+.lab{
+    color : #fff;
+    font-family : "Times New Roman", Times, serif;
+    font-weight : bold;
+
+}
+.btn-warning{
+    padding: 11px,16px;
+    position: relative;
+
+}
+.btn-warning  input[type="file"]{
+    cursor: pointer;
+    position: absolute;
+}
