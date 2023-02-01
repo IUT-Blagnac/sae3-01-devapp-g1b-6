@@ -1,0 +1,34 @@
+= Backlog produit de l'application IOT et du site d'e-commerce, réalisé par Esteban BIRET-TOSCANO.
+:toc:
+:toc-title: Sommaire
+:numbered:
+
+== Application IOT
+
+|=======
+|Numéro |User Story |Priorité|Critères d'acceptation
+|1 |En tant qu'utilisateur, je souhaite pouvoir configurer les paramètres, afin de visualiser les données de mon choix. |Haute|IHM intuitive / Ecriture du .yml par JAVA, et lecture du .yml par Python / Configuration des information à afficher, du seuil maximum, des devices et du temps de rafraichissement.
+|2|En tant qu'utilisateur, je veux pouvoir lire les informations choisies précédemment. |Haute| Affichage des données en question sur l'IHM.
+|3 |En tant qu'utilisateur, j'aimerais pouvoir visualiser ces informations sous forme de graphiques, afin d'améliorer la visibilité.|Moyenne| Affichage des graphiques sur l'IHM.
+|=======
+
+== Site E-commerce
+
+|=======
+|Numéro |User Story |Priorité|Critères d'acceptation
+|1 |En tant que visiteur, je souhaite faire une recherche d'un sous-marin par nom, afin d'obtenir la liste des produits avec leurs prix.|Haute|Sur la page d'accueil, un bouton 'Nos produits' permet d'afficher la page des produits, avec une barre de recherche.
+|2|En tant que visiteur, je souhaite faire une recherche d'un sous-marin à l'aide ces catégories, afin d'obtenir la liste des produits avec leurs prix. |Haute|Sur la page d'accueil, un bouton 'Nos produits' permet d'afficher la page des produits, avec un menu présentant les 6 catégories.
+|3 |En tant que visiteur, je veux pouvoir créer un compte SubOne afin de faire des achats.|Haute| Sur la page d'accueil, un bouton 'Connexion' permet d'afficher un formulaire de connexion. Un lien est présent dans ce formulaire, qui sert à créer un compte.
+|4 |En tant que visiteur, je veux pouvoir afficher le détail d'un produit, afin de bénéficier d'informations supplémentaires.|Haute| Sur chaque produit, un bouton 'Informations' permet d'afficher une page qui présente le produit.
+|5 |En tant que visiteur, je souhaite consulter les coordonnées de l'entreprise, afin d'en savoir plus et de les contacter au besoin.|Moyenne| Sur la page d'accueil, un bouton 'Contact' permet d'afficher les informations de SubOne.
+|6 |En tant que client, je veux pouvoir me connecter à mon compte SubOne afin de faire des achats et de voir les informations de mon compte|Haute| Sur la page d'accueil, un bouton 'Connexion' permet d'afficher un formulaire de connexion.
+|7 |En tant que client, je veux pouvoir modifier les informations de mon compte|Haute| Sur la page d'accueil, un bouton 'Compte client' ramène sur une page présentant les informations du client, et un bouton 'Modifier' ramène vers un formulaire de modification, où le client peut modifier toutes ses informations personnelles.
+|8 |En tant que client, je veux pouvoir supprimer mon compte.|Haute| Sur la page d'accueil, un bouton 'Compte client' ramène sur une page présentant les informations du client, et un bouton 'Supprimer' permet de supprimer le compte, après une validation de la part du client.
+|9 |En tant que client, je veux pouvoir ajouter un article à mon panier et choisir sa quantité.|Haute| Après avoir consulté le détail d'un produit, je peux l'ajouter au panier en choisissant sa quantité, à l'aide d'un input de type number et d'un bouton 'Ajouter au panier'.
+|10 |En tant que client, je veux pouvoir retirer un ou plusieurs articles de mon panier.|Haute|  Sur le panier, un bouton 'Supprimer' ainsi qu'un champ input number sont présent sur la carte de chaque article, permettant de retirer le nombre choisi d'articles du panier actuel.
+|11 |En tant que client, je veux pouvoir consulter les informations de mon panier (prix et quantité).|Haute| Sur la page du panier, le prix total de celui-ci est affiché dynamiquement. Sur chaque article du panier, la quantité commandée est affichée.  
+|12 |En tant que client, je veux pouvoir supprimer l'intégralité de mon panier.|Haute| Sur le panier, un bouton 'Supprimer' permet de supprimer le panier. Le client reste sur son panier, mais ce dernier affiche désormais 'Votre panier est vide !', et un bouton invite le client à consulter les produits du site. 
+|13 |En tant que client, je veux pouvoir valider mon panier.|Haute| Sur le panier, un bouton 'Valider' permet d'afficher la page de commande.
+|14 |En tant que client, je veux pouvoir valider ma commande.|Haute| Une fois sur la page de commande et après avoir rempli mes information de paiement (correctement), je clique sur le bouton 'Valider ma commande'.
+|15 |En tant qu’administrateur du site, je souhaite pouvoir modifier le stock de mes articles.|Moyenne|Sur la page d'accueil, je tape 'admin'. J'accède à l'espace administrateur, où je peux modifier à ma guise le stock des articles. 
+|=======

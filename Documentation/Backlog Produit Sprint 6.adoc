@@ -1,0 +1,26 @@
+= Backlog Sprint 6, réalisé par Esteban BIRET-TOSCANO & Enzo Mancini.
+:toc:
+:toc-title: Sommaire
+:numbered:
+
+== Application IOT (Enzo)
+
+|=======
+|User Story |Tâches associées|Estimation (en heures)
+|1 - En tant qu'utilisateur, je souhaite pouvoir configurer les paramètres, afin de visualiser les données de mon choix. |Ajout d'un bouton CONFIGURATION qui ouvre une nouvelle fenêtre dans lequel les Max, Min, seuil de danger, le pas et le capteur actuels (dans le fichier config.yml) sont affichés et modifiables.|5
+|2 - En tant qu'utilisateur, je veux pouvoir lire les informations choisies précédemment. |Ajout d'un bouton VALIDER sur la page de configuration qui va changer le fichier config.yml avec les données saisies et un thread actualise la page.| 7
+|3 - En tant qu'utilisateur, j'aimerais pouvoir visualiser ces informations sous forme de graphiques, afin d'améliorer la visibilité.|Utilisation de trois graphique (BarChar) sur lequel le niveau actuel (CO2,Température ou Humidité)est montré grâce à une première barre et une deuxième représente le seuil de danger, les graphiques sont actualisés toute les dix minustes grâce à un thread.| 15
+|=======
+
+== Site E-commerce (Esteban)
+
+|=======
+|User Story |Tâches associées|Estimation (en heures)
+|8 - En tant que client, je veux pouvoir supprimer mon compte.|Ajout du bouton 'Supprimer' sur la page du compte client, qui quand cliqué affiche un pop-up de confimation.Si oui, alors redirigé à une page de traitement (invisible pour le client)| 0.2
+|8 - En tant que client, je veux pouvoir supprimer mon compte.|La page de traitement supprime le client, le contenu du panier et le panier du client dans la base de données | 0.5
+|9 - En tant que client, je veux pouvoir ajouter un article à mon panier et choisir sa quantité.|Création d'un formulaire contenant un Input de type number et un bouton submit'ajouter au panier'| 1
+|9 - En tant que client, je veux pouvoir ajouter un article à mon panier et choisir sa quantité.|Une fois formulaire soumis, une page de traitement s'occupe d'insérer les données dans le panier du client, et ce dernier et redirigé vers son panier, et peut voir le contenu et le prix| 3
+|10 - En tant que client, je veux pouvoir retirer un article de mon panier.|Suppression de l'article en question via un bouton 'Supprimer', présent sur chaque article du panier| 0.2
+|11 - En tant que client, je veux pouvoir consulter les informations de mon panier (prix et quantité).|Calcul du prix du panier en fonction des articles et de leurs quantités, et quantité affichée sur chaque article|  5
+|12 - En tant que client, je veux pouvoir supprimer l'intégralité de mon panier.|Bouton 'Supprimer' tout en haut de la page du panier, qui supprime le contenu du panier du client | 0.3
+|=======

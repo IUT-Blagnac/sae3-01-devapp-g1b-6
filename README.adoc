@@ -49,13 +49,14 @@ toc::[]
 
 == Equipe
 
-Projet est réalisé par::
+Le projet est réalisé par::
 
-- https://github.com/janeDoe[Jane Doe]
-- https://github.com/johnSmith[John Smith]
-...
+- https://github.com/EnzoMancini[Enzo Mancini]
+- https://github.com/EstebanBiret[Esteban Biret-Toscano]
+- https://github.com/haisondang[Hai Son Dang]
+- https://github.com/Marwwannn[Marwan Youmni]
 
-Tuteur/tutrice enseignant(e) de l'équipe:: mailto:jean-michel.bruel@univ-tlse2.fr[JMB]
+Tuteur/tutrice enseignant(e) de l'équipe:: mailto:laurence.redon@univ-tlse2.fr[LR]
 
 == Contexte général
 
@@ -90,6 +91,23 @@ TIP: Pensez à utiliser les salons Discord dédiés pour poser vos questions.
 
 TIP: Mettez ici toutes les informations nécessaire à l'utilisation de votre dépôt (comment on installe votre application, où sont les docs, etc.)
 
+|===========================================================
+|Nom du dossier|Lien
+| Partie BD (rendus de Webetud dupliqués ici)| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Base%20de%20donn%C3%A9es[ici]
+| Partie Web (rendus de Webetud dupliqués ici)| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/D%C3%A9veloppement%20Web[ici]
+| Partie Communication (rendus de Webetud dupliqués ici)| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Communication[ici]
+| Fichiers src du Site-Web| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Fichiers%20src%20site-web[ici]
+| Fichiers src IOT| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Fichiers%20src%20IOT[ici]
+| Documentation technique WEB à jour| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Documentation%20technique%20WEB%20V6.pdf[ici]
+| Documentation utilisateur WEB finalisée |https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Documentation%20utilisateur%20WEB%20finalis%C3%A9e%20(V6.1).pdf[ici]
+| Documentation Python|https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Documentation%20Python[ici]
+| Tests WEB à jour| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Tests/Test%20Web%20V6.0.adoc[ici]
+| Tests Python| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Tests/Test%20Python.py[ici]
+| Tests BD V5.0| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Tests/Test%20BD.pdf[ici]
+| Analyse d'impact| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Droit%20analyse%20impact.pdf[ici]
+| Documentation technique JAVA | https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation%20Java/G1B-6%20Documentation%20technique%20Java.pdf[ici]
+|===========================================================
+
 == Gestion de projet & Qualité
 
 Chaque sprint (semaine) vous devrez livrer une nouvelle version de votre application (release).
@@ -97,10 +115,35 @@ Utilisez pour cela les fonctionnalités de GitHub pour les https://docs.github.c
 
 De plus ce fichier `README.adoc` devra être à jour des informations suivantes :
 
-- Version courante : https://github.com/IUT-Blagnac/sae3-01-template/releases/tag/v0.1.2[v0.1.2]
-- Lien vers la doc technique
-- Lien vers la doc utilisateur
-- Liste des (ou lien vers les) User Stories (ToDo/Ongoing/Done) et % restant
-- Tests unitaires et plans de test
+- Version courante : https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/releases/tag/V6.1[V6.1]
+- https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Backlog%20Produit%20IOT%20%26%20E-commerce.adoc[Backlog produit IOT & E-commerce]
+- https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Backlog%20Produit%20Sprint%207.adoc[Backlog de Sprint 7]
+- https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Documentation%20technique%20WEB%20V6.pdf[Documentation technique Web à jour]
+- https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Documentation%20utilisateur%20WEB%20finalis%C3%A9e%20(V6.1).pdf[Documentation utilisateur Web finalisée] 
+- https://github.com/orgs/IUT-Blagnac/projects/33[Projet Site Web]
+- https://github.com/orgs/IUT-Blagnac/projects/40[Projet IOT]
+- https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Tests[Tests WEB / IOT / BD] 
 - Indicateurs de qualité du code (dette technique)
 - ... tout autre élément que vous jugerez utiles pour démontrer la qualité de votre application
+
+=== Évaluations hebdomadaires
+
+NOTE: Les notes ci-dessous sont mises à jour directement par les enseignants responsables de la compétence 5.
+
+ifdef::env-github[]
+image:https://docs.google.com/spreadsheets/d/e/2PACX-1vTc3HJJ9iSI4aa2I9a567wX1AUEmgGrQsPl7tHGSAJ_Z-lzWXwYhlhcVIhh5vCJxoxHXYKjSLetP6NS/pubchart?oid=1950296416&format=image[link=https://docs.google.com/spreadsheets/d/e/2PACX-1vTc3HJJ9iSI4aa2I9a567wX1AUEmgGrQsPl7tHGSAJ_Z-lzWXwYhlhcVIhh5vCJxoxHXYKjSLetP6NS/pubchart?oid=1950296416&format=image]
+endif::[]
+
+ifndef::env-github[]
+++++
+<iframe width="786" height="430" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTc3HJJ9iSI4aa2I9a567wX1AUEmgGrQsPl7tHGSAJ_Z-lzWXwYhlhcVIhh5vCJxoxHXYKjSLetP6NS/pubchart?oid=1950296416&format=image"></iframe>
+++++
+endif::[]
+
+=Sprint 3 retour :
+Backlog Ecommerce ok même si des erreurs de syntaxe dans la rédaction. Par contre pourquoi j'ai une colonne US puis Backlog produit ? J'ai encore des "en cours" dans un sprint qui est terminé. Les tâches doivent avoir un label et être assignées. Elles sont aussi ratachées à une US. En IOT pas de backlog produit ni d'organisation en sprint, juste une liste d'issues sans label ni assignement. Des livraisons mais des tests que sur l'IOT. Je n'ai pas touvé vos docs tech et user.
+
+
+
+
+https://docs.google.com/spreadsheets/d/e/2PACX-1vTc3HJJ9iSI4aa2I9a567wX1AUEmgGrQsPl7tHGSAJ_Z-lzWXwYhlhcVIhh5vCJxoxHXYKjSLetP6NS/pubchart?oid=1950296416&format=interactive
