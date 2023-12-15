@@ -101,7 +101,7 @@ TIP: Mettez ici toutes les informations nécessaire à l'utilisation de votre d�
 | Documentation technique WEB à jour| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Documentation%20technique%20WEB%20V6.pdf[ici]
 | Documentation utilisateur WEB finalisée |https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Documentation%20utilisateur%20WEB%20finalis%C3%A9e%20(V6.1).pdf[ici]
 | Documentation Python|https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/tree/master/Documentation%20Python[ici]
-| Tests WEB à jour| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Tests/Test%20Web%20V6.0.adoc[ici]
+| Tests WEB à jour| https://github.com/IUT-Blagnac/sae-3-01-devapp-1A-EQUIPE2/blob/master/Tests/Test%20Web%201.1.adoc[ici]
 | Tests Python| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Tests/Test%20Python.py[ici]
 | Tests BD V5.0| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Tests/Test%20BD.pdf[ici]
 | Analyse d'impact| https://github.com/IUT-Blagnac/sae3-01-devapp-g1b-6/blob/master/Documentation/Droit%20analyse%20impact.pdf[ici]
